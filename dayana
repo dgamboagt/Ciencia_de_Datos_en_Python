@@ -1,0 +1,17 @@
+[Laboratorio #1]
+[23001913– Dayana Alejandra Gamboa Palacios]
+[dagamboagt@gmail.com]
+[POSTGRADO EN INTELIGENCIA DE NEGOCIOS]
+[Universidad Galileo]
+
+
+• Qué es git
+Sistema de control de versiones, esto quiere decir que guarda diferentes archivos o versiones a lo largo de las diferentes etapas de un proyecto. Git cuenta con código abierto desarrollado por Linus Torvalds, también creado r del kernel del sistema operativo de Linux en el 2005. Git cuenta con una arquitectura distribuida, diseñada para contar con el rendimiento, la seguridad y flexibilidad.
+• Qué es github
+Plataforma para crear proyectos abiertos de herramientas y aplicaciones, busca generar opciones colaborativas y código abierto que puede ser de consulta para cualquier usuario. Además, permite usar la moderación de comentarios para mantener a todos informados en la tarea. La diferencia entre git y github es que este último facilita a la colaboración con git, es una plataforma que puede mantener repositorio de código en almacenamiento basado en la nube.
+Acciones importantes en github:
+1.	Bifuración: Tomar código de otro usuario en un repositorio con el fin de adaptarlo según tus necesidades.
+2.	Pull: modificación del código de otro usuario y enviar esos cambios de vuelta al repositorio original a través de una solicitud de pull.
+3.	Fusión: integrar nuevos cambios en un proyecto desde una solicitud de pull, y reconocer a otros contribuyentes por sus sugerencias.
+MagicCells
+Funcionalidad que permite limpiar datos de alta dimensionalidad por medio del algoritmo Markov Affinity-Base Graph Imputation of Cells (conocido como MAGIC) principalmente aplicado en datos de secuenciación de ARN. MAGIC aprende la estructura de los datos utilizando un grafo resultante para suavizar las características y restaurar la estructura de los datos.
