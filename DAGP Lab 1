@@ -1,0 +1,106 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyP3VjUW5dknAVCea0vMXarK"
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "source": [
+        "### [Laboratorio #1]\n",
+        "### [23001913– Dayana Alejandra Gamboa Palacios]\n",
+        "###[dagamboagt@gmail.com]\n",
+        "###[POSTGRADO EN INTELIGENCIA DE NEGOCIOS]\n",
+        "###[Universidad Galileo] **texto en negrita**"
+      ],
+      "metadata": {
+        "id": "DnMz38vOq6YD"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "\n",
+        "## • Qué es git"
+      ],
+      "metadata": {
+        "id": "LY0fEbcFqypG"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Sistema de control de versiones, esto quiere decir que guarda diferentes archivos o versiones a lo largo de las diferentes etapas de un proyecto. Git cuenta con código abierto desarrollado por Linus Torvalds, también creado r del kernel del sistema operativo de Linux en el 2005. Git cuenta con una arquitectura distribuida, diseñada para contar con el rendimiento, la seguridad y flexibilidad.\n"
+      ],
+      "metadata": {
+        "id": "CPzfI5lsrI3v"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## • Qué es github\n"
+      ],
+      "metadata": {
+        "id": "f5R9lBONrMTB"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Plataforma para crear proyectos abiertos de herramientas y aplicaciones, busca generar opciones colaborativas y código abierto que puede ser de consulta para cualquier usuario. Además, permite usar la moderación de comentarios para mantener a todos informados en la tarea. La diferencia entre git y github es que este último facilita a la colaboración con git, es una plataforma que puede mantener repositorio de código en almacenamiento basado en la nube.\n",
+        "Acciones importantes en github:\n",
+        "\n",
+        "Bifuración: Tomar código de otro usuario en un repositorio con el fin de adaptarlo según tus necesidades.\n",
+        "Pull: modificación del código de otro usuario y enviar esos cambios de vuelta al repositorio original a través de una solicitud de pull.\n",
+        "Fusión: integrar nuevos cambios en un proyecto desde una solicitud de pull, y reconocer a otros contribuyentes por sus sugerencias.\n"
+      ],
+      "metadata": {
+        "id": "Xuj7oVgvrPZ3"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## Magic Cells"
+      ],
+      "metadata": {
+        "id": "z_GT7rWJrSq4"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Funcionalidad que permite limpiar datos de alta dimensionalidad por medio del algoritmo Markov Affinity-Base Graph Imputation of Cells (conocido como MAGIC) principalmente aplicado en datos de secuenciación de ARN. MAGIC aprende la estructura de los datos utilizando un grafo resultante para suavizar las características y restaurar la estructura de los datos."
+      ],
+      "metadata": {
+        "id": "4hlirxRyrVzd"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "[link al repositorio](https://github.com/dgamboagt/Ciencia_de_Datos_en_Python.git)\n",
+        "\n",
+        "\n",
+        "\n",
+        "---\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "Os0zhYeLrjI3"
+      }
+    }
+  ]
+}
